@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "examTitle": "Monthly Test - September",
+    "date": "2026-09-28",
+    "subjects": [
+      {
+        "subject": "Mathematics",
+        "obtained": 42,
+        "total": 50
+      },
+      {
+        "subject": "Physics",
+        "obtained": 38,
+        "total": 50
+      },
+      {
+        "subject": "Chemistry",
+        "obtained": 45,
+        "total": 50
+      }
+    ],
+    "percentage": 83.3,
+    "grade": "A",
+    "position": 4
+  },
+  {
+    "id": 2,
+    "examTitle": "Monthly Test - August",
+    "date": "2026-08-28",
+    "subjects": [
+      {
+        "subject": "Mathematics",
+        "obtained": 35,
+        "total": 50
+      },
+      {
+        "subject": "Physics",
+        "obtained": 40,
+        "total": 50
+      },
+      {
+        "subject": "Chemistry",
+        "obtained": 39,
+        "total": 50
+      }
+    ],
+    "percentage": 76.0,
+    "grade": "B",
+    "position": 7
+  }
+]

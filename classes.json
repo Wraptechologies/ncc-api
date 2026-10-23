@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "teacher": "Sir Hamid",
+    "day": "Monday",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "room": "Room 101"
+  },
+  {
+    "id": 2,
+    "subject": "Physics",
+    "teacher": "Miss Sana",
+    "day": "Monday",
+    "startTime": "09:15",
+    "endTime": "10:15",
+    "room": "Lab 1"
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "teacher": "Sir Imran",
+    "day": "Tuesday",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "room": "Room 102"
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "teacher": "Miss Ayesha",
+    "day": "Wednesday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "room": "Room 103"
+  }
+]

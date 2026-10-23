@@ -1,0 +1,28 @@
+{
+  "currency": "PKR",
+  "totalDue": 6000,
+  "dueDate": "2026-11-10",
+  "history": [
+    {
+      "id": 1,
+      "month": "October 2026",
+      "amount": 6000,
+      "status": "due",
+      "paidOn": null
+    },
+    {
+      "id": 2,
+      "month": "September 2026",
+      "amount": 6000,
+      "status": "paid",
+      "paidOn": "2026-09-08"
+    },
+    {
+      "id": 3,
+      "month": "August 2026",
+      "amount": 6000,
+      "status": "paid",
+      "paidOn": "2026-08-09"
+    }
+  ]
+}

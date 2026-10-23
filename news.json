@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Mid Term Exams Announced",
+    "body": "Mid term exams will start on 20 November. Please check the exam schedule.",
+    "date": "2026-10-20",
+    "category": "Exam"
+  },
+  {
+    "id": 2,
+    "title": "Winter Timing Change",
+    "body": "From 1 November, morning batches will start at 8:30 AM.",
+    "date": "2026-10-18",
+    "category": "Notice"
+  },
+  {
+    "id": 3,
+    "title": "Parent Meeting",
+    "body": "Parent-teacher meeting is scheduled for Saturday at 4 PM.",
+    "date": "2026-10-15",
+    "category": "Event"
+  }
+]

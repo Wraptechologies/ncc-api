@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Monthly Test - Mathematics",
+    "subject": "Mathematics",
+    "date": "2026-11-05",
+    "startTime": "09:00",
+    "duration": 60,
+    "totalMarks": 50,
+    "room": "Hall A"
+  },
+  {
+    "id": 2,
+    "title": "Monthly Test - Physics",
+    "subject": "Physics",
+    "date": "2026-11-07",
+    "startTime": "09:00",
+    "duration": 60,
+    "totalMarks": 50,
+    "room": "Hall A"
+  },
+  {
+    "id": 3,
+    "title": "Mid Term - Chemistry",
+    "subject": "Chemistry",
+    "date": "2026-11-20",
+    "startTime": "10:00",
+    "duration": 120,
+    "totalMarks": 100,
+    "room": "Hall B"
+  }
+]

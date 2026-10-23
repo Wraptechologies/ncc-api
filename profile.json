@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "Ali Raza",
+  "rollNo": "NCC-2026-0142",
+  "class": "Grade 10",
+  "batch": "Morning A",
+  "phone": "0300-0000000",
+  "email": "ali.raza@example.com",
+  "guardianName": "Raza Ahmed",
+  "photoUrl": ""
+}
