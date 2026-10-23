@@ -1,0 +1,51 @@
+{
+  "profile": {
+    "id": 1,
+    "name": "Ali Raza",
+    "rollNo": "NCC-2026-0142",
+    "class": "Grade 10",
+    "batch": "Morning A",
+    "phone": "0300-0000000",
+    "email": "ali.raza@example.com",
+    "guardianName": "Raza Ahmed",
+    "photoUrl": ""
+  },
+  "classes": [
+    { "id": 1, "subject": "Mathematics", "teacher": "Sir Hamid", "day": "Monday", "startTime": "08:00", "endTime": "09:00", "room": "Room 101" },
+    { "id": 2, "subject": "Physics", "teacher": "Miss Sana", "day": "Monday", "startTime": "09:15", "endTime": "10:15", "room": "Lab 1" },
+    { "id": 3, "subject": "Chemistry", "teacher": "Sir Imran", "day": "Tuesday", "startTime": "08:00", "endTime": "09:00", "room": "Room 102" },
+    { "id": 4, "subject": "English", "teacher": "Miss Ayesha", "day": "Wednesday", "startTime": "10:30", "endTime": "11:30", "room": "Room 103" }
+  ],
+  "exams": [
+    { "id": 1, "title": "Monthly Test - Mathematics", "subject": "Mathematics", "date": "2026-11-05", "startTime": "09:00", "duration": 60, "totalMarks": 50, "room": "Hall A" },
+    { "id": 2, "title": "Monthly Test - Physics", "subject": "Physics", "date": "2026-11-07", "startTime": "09:00", "duration": 60, "totalMarks": 50, "room": "Hall A" },
+    { "id": 3, "title": "Mid Term - Chemistry", "subject": "Chemistry", "date": "2026-11-20", "startTime": "10:00", "duration": 120, "totalMarks": 100, "room": "Hall B" }
+  ],
+  "results": [
+    { "id": 1, "examTitle": "Monthly Test - September", "date": "2026-09-28", "subjects": [
+        { "subject": "Mathematics", "obtained": 42, "total": 50 },
+        { "subject": "Physics", "obtained": 38, "total": 50 },
+        { "subject": "Chemistry", "obtained": 45, "total": 50 }
+      ], "percentage": 83.3, "grade": "A", "position": 4 },
+    { "id": 2, "examTitle": "Monthly Test - August", "date": "2026-08-28", "subjects": [
+        { "subject": "Mathematics", "obtained": 35, "total": 50 },
+        { "subject": "Physics", "obtained": 40, "total": 50 },
+        { "subject": "Chemistry", "obtained": 39, "total": 50 }
+      ], "percentage": 76.0, "grade": "B", "position": 7 }
+  ],
+  "fees": {
+    "currency": "PKR",
+    "totalDue": 6000,
+    "dueDate": "2026-11-10",
+    "history": [
+      { "id": 1, "month": "October 2026", "amount": 6000, "status": "due", "paidOn": null },
+      { "id": 2, "month": "September 2026", "amount": 6000, "status": "paid", "paidOn": "2026-09-08" },
+      { "id": 3, "month": "August 2026", "amount": 6000, "status": "paid", "paidOn": "2026-08-09" }
+    ]
+  },
+  "news": [
+    { "id": 1, "title": "Mid Term Exams Announced", "body": "Mid term exams will start on 20 November. Please check the exam schedule.", "date": "2026-10-20", "category": "Exam" },
+    { "id": 2, "title": "Winter Timing Change", "body": "From 1 November, morning batches will start at 8:30 AM.", "date": "2026-10-18", "category": "Notice" },
+    { "id": 3, "title": "Parent Meeting", "body": "Parent-teacher meeting is scheduled for Saturday at 4 PM.", "date": "2026-10-15", "category": "Event" }
+  ]
+}
